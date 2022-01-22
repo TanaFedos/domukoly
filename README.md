@@ -1,2 +1,2 @@
-# domukoly
-povtorenie git
+# Domaci ukoly
+Ja povtoryau git
